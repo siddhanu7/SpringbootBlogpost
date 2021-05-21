@@ -1,0 +1,14 @@
+body{
+	background-color: rgba(00, 80, 80, 0.5);
+
+
+
+}
+
+.container{
+	background-color: 	rgb(105,105,105,0.5);
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 5px;
+}
